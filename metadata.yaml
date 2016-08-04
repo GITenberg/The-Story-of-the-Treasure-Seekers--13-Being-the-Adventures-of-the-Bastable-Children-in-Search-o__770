@@ -1,0 +1,53 @@
+_repo: The-Story-of-the-Treasure-Seekers--13-Being-the-Adventures-of-the-Bastable-Children-in-Search-o__770
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Bland, Edith Nesbit
+    - Nesbit, Edith
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: "The Story of the Treasure Seekers is a novel by E. Nesbit. First published\
+  \ in 1899, it tells the story of Dora, Oswald, Dicky, Alice, Noel, and Horace Octavius\
+  \ (H. O.) Bastable, and their attempts to assist their widowed father and recover\
+  \ the fortunes of their family; its sequels are The Wouldbegoods (1899) and The\
+  \ New Treasure Seekers (1904). The novel's complete name is The Story of the Treasure\
+  \ Seekers: Being the Adventures of the Bastable Children in Search of a Fortune.\
+  \ The original edition included illustrations by H. R. Millar. The Puffin edition\
+  \ (1958) was illustrated by Cecil Leslie.\nThe story is told from a child's point\
+  \ of view. The narrator is Oswald, but on the first page he announces:\n\"It is\
+  \ one of us that tells this story – but I shall not tell you which: only at the\
+  \ very end perhaps I will. While the story is going on you may be trying to guess,\
+  \ only I bet you don't.\"\nHowever, his occasional lapse into first person, and\
+  \ the undue praise he likes to heap on himself, makes his identity obvious to the\
+  \ attentive reader long before he reveals it himself.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's Literature
+- Children's Fiction
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '770'
+  wikidata: Q7766848
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Great Britain -- History -- 19th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Moneymaking projects -- Fiction'
+- !lcsh 'Family life -- England -- Fiction'
+- !lcsh 'Imagination -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- GITenberg
+title: "The Story of the Treasure Seekers\r\nBeing the Adventures of the Bastable\
+  \ Children in Search of a Fortune"
+url: http://www.gutenberg.org/ebooks/770
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Story_of_the_Treasure_Seekers
